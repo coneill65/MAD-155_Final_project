@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MAD-155 Final project</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+    <string name="prev">prev</string>
+    <string name="next">Next</string>
+    <string name="screen_2_text">This is A video shown using a WebView of an ai that I created that learned how to score in rocket league in a training match.</string>
+    <string name="page_1_text">This app was made to show my Rocket league AI, explanation of the AI on page 3.</string>
+    <string name="page_3_story">Feel free to skip this if your not interested in reading about how I made my AI.\n\n
+                                I started with my AI in the RLGym discord server, Here I found a great community centered around creating Rocket league AI\'s.\n\n
+                                I started learning the library of Rocket league Gym, This library used the format laid out by Open AI\'s Gym layout. \n\n
+                                After looking around for a while I decided to make the AI restricted in the fact that it could on drive Forwards, Backwards, Right, and Left.\n\n
+                                This allowed the AI to learn faster because it did not need to learn as many things about the game.\n\n
+                                Then I created my own evolution algorithm, This algorithm would create 50 AI\'s in a batch, out of this batch it would pick the best 5, Those 5 would be used to create 40 AI\'s of the next batch, the rest of the 10 would be random allowing for a random chance of finding a different species.\n\n
+                                This evolution algorithm was created based on my knowledge of NEAT with me filling in the gaps for anything I did not know.</string>
+</resources>

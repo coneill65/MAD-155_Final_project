@@ -1,0 +1,2 @@
+rootProject.name = "MAD-155 Final project"
+include ':app'
